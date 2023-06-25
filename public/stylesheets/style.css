@@ -1,0 +1,55 @@
+ #topo{
+    background-color:#D41313;
+    
+}
+#user{ 
+    list-style-type: none;
+    margin:0;
+    padding: 0;
+    top: 0;
+    width: 100;
+    
+
+}
+
+#conta{
+
+    float:right;
+}
+#navig {
+  list-style-type: none;
+    margin:0;
+    padding: 0;
+    top: 0;
+    width: 100;
+}
+#fru{
+    padding: 20px;
+}
+#usua{
+    padding: 20px;
+}
+#haki{
+    padding: 20px;
+}
+#esp{
+    padding: 20px;
+}
+#teo{
+    padding: 20px;
+}
+#text{
+background-color: #FCF3CF;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+}
